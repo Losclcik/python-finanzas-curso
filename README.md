@@ -25,17 +25,18 @@
 
 * **Fase activa:** Fase 1 — Fundamentos de Python
 * **Semana:** 1
-* **Último tema visto:** Variables y tipos de datos
-* **Próximo tema:** Strings y operaciones con texto
+* **Último tema visto:** Strings y operaciones con texto
+* **Próximo tema:** Listas
 
 ---
 
 ## ✅ Proyectos completados
 
 * **Lección 1** — Variables y tipos de datos: cartera de inversión básica (`leccion1.py`)
+* **Lección 2** — Strings: cartera de 3 empresas con f-strings (`ejercicio2.py`)
 
 ---
 
 ## 📝 Notas y ajustes del curso
 
-* 5 lecciones por semana (L, X, J) + práctica el fin de semana (S,D)
+* 3 lecciones por semana (L, X, V) + práctica el fin de semana
